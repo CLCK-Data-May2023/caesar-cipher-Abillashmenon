@@ -2,7 +2,7 @@
 
 letters = 'abcdefghijklmnopqrstuvwxyz'
 msg = input('Please enter a sentence: ')
-shift = int(input("What shift is to be used? "))
+shift = 5
 encymsg = ''
 #Please enter a senctence: python is fun!
 #The encrypted sentence is: udymts nx kzs!
