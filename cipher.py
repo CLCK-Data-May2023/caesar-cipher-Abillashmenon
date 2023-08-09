@@ -14,7 +14,7 @@ for i in msg:
         encymsg += filter2
     else:
         encymsg += i
-print('The encryoted message is: ' + encymsg )
+print('The encrypted message is: ' + encymsg )
 
 
 
